@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7f929de2e44e7bba20350a2cf851c21f.js"
+  "/precache-manifest.150c5980dbdbe38346954160dc8b67e2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "xatlov"});
