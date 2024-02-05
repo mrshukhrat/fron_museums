@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.cbcbc803281cc584ddac961041ddfb68.js"
+  "/precache-manifest.c2f05e3ee50334077eacffff5bd811b4.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Erp"});
